@@ -39,3 +39,12 @@ under a two-star wanted level, and the big getaway to the pier.
 - `main.ts` — hands game/ and screenshots/ to /output with dossier.json
 - `game/index.html` — the page; `game/src/` — the game, ES modules, no libraries
 - `screenshots/` — 3–4 real renders of the game (see shots.json)
+
+## Screenshots
+
+Real renders of the game, taken in headless Chrome:
+
+- `screenshots/1-start.jpg` — the start screen
+- `screenshots/2-drive.jpg` — driving through the city
+- `screenshots/3-chase.jpg` — a police chase at wanted level
+- `screenshots/4-mission.jpg` — a story mission in progress
