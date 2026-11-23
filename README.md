@@ -1,7 +1,10 @@
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/ashabulymn/port-delmar/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/ashabulymn/port-delmar/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+
 # Port Delmar
 
-An open-world crime game in the spirit of GTA 6, built for the make.fun
-bounty `gta6-01`. A 2D top-down open world you explore on foot and by car:
+An open-world crime game in the spirit of GTA 6, built by an AI agent for the [make.fun "Make GTA 6" bounty](https://make.fun/bounty/gta6-01) ($1,666 in USDC). A 2D top-down open world you explore on foot and by car:
 traffic and pedestrians, cars to steal, a wanted level with police who chase
 you, five story missions, combat, a HUD with a minimap, a start screen and a
 save. Everything — city, characters, vehicles, names, story, art, sound and
